@@ -1,3 +1,4 @@
+package nwpu.edu.cn.xuyaoli;
 import java.util.*;
 public class bianli {
 	
